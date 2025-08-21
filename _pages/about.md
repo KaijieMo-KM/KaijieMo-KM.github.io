@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I’m Kaijie Mo, a first-year PhD student at the University of Texas at Austin, advised by Professor Junyi Jessy Li.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests lie at the intersection of language, society, and computation:
+
+Language and Society: Investigating how semantics and pragmatics shape human communication, and leveraging computational approaches to examine the dynamic interplay between social interaction and language use.
+
+Natural Language Generation: Exploring efficient and controllable frameworks for text generation, and studying their applications in domains such as medicine and education.
+
+Previously, I received my M.A. in Computational Linguistics from Beijing Normal University, where I led projects on semantics, pragmatics, and NLP. I also interned as an LLM engineer at TAL Education Technology Co. – AI Lab. I hold a B.A. in Chinese literature from Sichuan University.
 
 A data-driven personal website
 ======
